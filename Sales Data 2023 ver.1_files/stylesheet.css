@@ -1,0 +1,468 @@
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style16
+	{mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";
+	mso-style-name:Comma;
+	mso-style-id:3;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding:0px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.xl66
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"mmm\/yy";}
+.xl67
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@";}
+.xl68
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;}
+.xl69
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;}
+.xl70
+	{mso-style-parent:style0;
+	font-weight:700;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:.5pt solid black;}
+.xl71
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	border:.5pt solid black;}
+.xl72
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:left;
+	border:.5pt solid black;}
+.xl73
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@";
+	border:.5pt solid black;}
+.xl74
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\\$* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@";
+	border:.5pt solid black;}
+.xl75
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"mmm\/yy";
+	text-align:left;
+	border:.5pt solid black;}
+.xl76
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	border:.5pt solid black;}
+.xl77
+	{mso-style-parent:style0;
+	color:windowtext;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	background:#215967;
+	mso-pattern:black none;}
+.xl78
+	{mso-style-parent:style0;
+	white-space:normal;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	white-space:normal;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:left;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #ABABAB;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl82
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl83
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:.5pt solid #ABABAB;
+	border-bottom:none;
+	border-left:none;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl84
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl85
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:.5pt solid #ABABAB;
+	border-bottom:none;
+	border-left:none;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl86
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl87
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	background:#E4DFEC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl88
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#E4DFEC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl89
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:.5pt solid #ABABAB;
+	border-bottom:none;
+	border-left:none;
+	background:#E4DFEC;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl90
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	white-space:normal;}
+.xl91
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";}
+.xl92
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@_-";}
+.xl93
+	{mso-style-parent:style16;
+	mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	white-space:normal;}
+.xl94
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid #ABABAB;
+	background:#DAEEF3;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl95
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#DAEEF3;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl96
+	{mso-style-parent:style0;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:.5pt solid #ABABAB;
+	border-bottom:none;
+	border-left:none;
+	background:#DAEEF3;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl97
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl98
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl99
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl100
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl101
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	background:#F2DCDB;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl102
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	background:#A6A6A6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl103
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	background:#BFBFBF;
+	mso-pattern:black none;}
+.xl104
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	background:#BFBFBF;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl105
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	background:gray;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl106
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	background:#F2F2F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl107
+	{mso-style-parent:style16;
+	mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	background:#F2F2F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl108
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:.5pt solid #ABABAB;
+	background:#F2F2F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl109
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:none;
+	background:#F2F2F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl110
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0_-\;\\-* \#\,\#\#0_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:.5pt solid #ABABAB;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:none;
+	background:#F2F2F2;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl111
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl112
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:none;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl113
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:.5pt solid #ABABAB;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:none;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl114
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:.5pt solid #ABABAB;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl115
+	{mso-style-parent:style0;
+	mso-number-format:"_-* \#\,\#\#0\.00_-\;\\-* \#\,\#\#0\.00_-\;_-* \0022-\0022??_-\;_-\@_-";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid #ABABAB;
+	border-right:none;
+	border-bottom:.5pt solid #ABABAB;
+	border-left:none;
+	background:#DCE6F1;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl116
+	{mso-style-parent:style0;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	vertical-align:middle;
+	background:#A6A6A6;
+	mso-pattern:black none;
+	white-space:normal;}
