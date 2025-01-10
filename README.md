@@ -1,8 +1,6 @@
-excel dashboard project files upload
+## 👋 Hello, Welcome to my visualization project 'Excel-Dashboarding' ! 👋
 
-## 👋 Hello, Welcome to my visualization project 'Excel-Dashboarding' !
-
-<h4 align="center">This project intends to build interactive visuals and dashboard in excel.</h4>
+<h4 align="center">This project intends to build interactive visuals and dashboard using pivot tables and charting at Excel.</h4>
 
 <p align="center">
   <img src="./assets/image024.png" alt="Project Banner" width="800">
@@ -32,21 +30,16 @@ Please scroll down to know more about this project
 
 ## 🎯 About The Project
 <br>
-Full Project in OneDrive »(https://onedrive.live.com/view.aspx?resid=153FB54B16EC9F47%2121236&authkey=!ACUCjOsJdhewOHM)
+<a href = "https://onedrive.live.com/view.aspx?resid=153FB54B16EC9F47%2121236&authkey=!ACUCjOsJdhewOHM">Full Project in OneDrive</a>
 <br>
 
 **Data Structure**
 <p align="center">
-  <img src="./assets/dataStr.png" alt="Data Structure" width="600">
-</p>
-
-
+  <img src="./assets/dataStr.png" alt="Data Structure" width="600"></p>
 
 ## ✨ Demo-Preview
 
-Here are some demo we can get in this project:
-
-
+Here are some snapshots of the project:
 
 **Profit by Customers - Regional**
 <p align="center"><br>
